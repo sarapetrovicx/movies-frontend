@@ -1,0 +1,1 @@
+      {id:1, title:"Fight Club", year:1999, duration:"2h 19m", language: "English", movielistId: 1, trailer: "https://www.youtube.com/embed/qtRKdVHc-cE",createdAt:new Date("2021-01-01"), updatedAt:new Date("2021-01-01")},
